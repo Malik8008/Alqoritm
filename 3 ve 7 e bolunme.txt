@@ -1,0 +1,7 @@
+START
+ input n
+   if n/21
+    print("3ve7-e bolunur")
+   else
+    print("3ve7-e bolunmur")
+END
