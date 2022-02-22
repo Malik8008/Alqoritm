@@ -1,0 +1,10 @@
+START 
+input n
+ if n==15
+  print("ferqli eded daxil et")
+ if n>15
+  print("hava istidir")
+ else 
+  print("hava soyuqdur")
+
+END
